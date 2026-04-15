@@ -28,6 +28,7 @@ const addTask = (title) => {
  //Retorna todas as tarefas armazenadas
 const getTasks = () => tasks;
 
+//Param é o parametro de uma função
 /**
  * Atualiza uma tarefa existente
  * @param {number|string} id ID da tarefa a ser alterada
